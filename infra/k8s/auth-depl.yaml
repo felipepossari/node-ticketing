@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: felipepossari/-auth
+          image: felipepossari/auth
 ---
 apiVersion: v1
 kind: Service
